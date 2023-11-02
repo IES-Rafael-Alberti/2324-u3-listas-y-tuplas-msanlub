@@ -6,7 +6,6 @@ def guardaAsignatura(asignatura:str) ->list:
     asignaturas.append(asignatura)
     return asignaturas
 
-
 if __name__=="__main__":
     #entrada
     asignatura = ["Matemáticas", "Física", "Química", "Historia" ,"Lengua"]
